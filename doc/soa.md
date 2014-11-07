@@ -112,4 +112,4 @@ class Db{
 ```
 直接访问`./soa_client.php` 就可以看到结果了~
 
-<https://github.com/kakuchichi/swoole_framework/src/soa/>  完整代码
+<https://github.com/kakuchichi/swoole_framework/tree/master/src/soa>  完整代码
